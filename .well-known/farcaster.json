@@ -1,0 +1,18 @@
+{
+  "frame": {
+    "name": "Guess The Character",
+    "version": "1",
+    "iconUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/icon.png",
+    "homeUrl": "https://guess-the-character.vercel.app/",
+    "splashImageUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/splash.png",
+    "splashBackgroundColor": "#F8F9FA",
+    "subtitle": "Can you guess them all?",
+    "description": "A fun Farcaster mini game — see a character silhouette and guess who it is!",
+    "primaryCategory": "games"
+  },
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  }
+}
