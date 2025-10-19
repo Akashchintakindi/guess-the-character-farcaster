@@ -6,6 +6,7 @@
     "homeUrl": "https://guess-the-character-farcaster.vercel.app/",
     "splashImageUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/splash.png",
     "splashBackgroundColor": "#F8F9FA",
+    "webhookUrl": "https://guess-the-character-farcaster.vercel.app/api/webhook",
     "subtitle": "Can you guess them all?",
     "description": "A fun Farcaster mini game — see a character silhouette and guess who it is!",
     "primaryCategory": "games"
