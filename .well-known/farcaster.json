@@ -1,13 +1,15 @@
 {
-  "frame": {
-    "name": "Guess The Character",
+    "frame": {
+    "name": "Guess the character",
     "version": "1",
-    "iconUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/icon.png",
-    "homeUrl": "https://guess-the-character-rouge.vercel.app/",
-    "splashImageUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/splash.png",
+    "iconUrl": "https://guess-the-character-rouge.vercel.app/icon.png",
+    "homeUrl": "https://guess-the-character-rouge.vercel.app",
+    "imageUrl": "https://guess-the-character-rouge.vercel.app/image.png",
+    "splashImageUrl": "https://guess-the-character-rouge.vercel.app/splash.png",
     "splashBackgroundColor": "#F8F9FA",
-    "subtitle": "Can you guess them all?",
-    "description": "A fun Farcaster mini game — see a character silhouette and guess who it is!",
+    "webhookUrl": "https://guess-the-character-rouge.vercel.app/api/webhook",
+    "subtitle": "Can you recognize them all?",
+    "description": "Test your memory and fandom power! Guess the character from their silhouette — anime, superheroes, cartoons, and more. Play, share, and climb the leaderboard!",
     "primaryCategory": "games"
   },
   "accountAssociation": {
