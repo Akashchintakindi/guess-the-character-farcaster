@@ -13,8 +13,8 @@
     "primaryCategory": "games"
   },
   "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+    "header": "eyJmaWQiOjIzNDU2NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDlkODJEQkY0ODY4MTc3NUIyYjgxOTc3Njg4QzUwMTA4OGEwMTVCRWEifQ",
+    "payload": "eyJkb21haW4iOiJndWVzcy10aGUtY2hhcmFjdGVyLXJvdWdlLnZlcmNlbC5hcHAifQ",
+    "signature": "AyPiF5zfmmYUeUMZU4v0a3O7S+bhM2KO1VeL5qQOE44pUpXxU3cePMxeIdGxt7SROTONArhCMawn5ebYwXhRIBs="
   }
 }
