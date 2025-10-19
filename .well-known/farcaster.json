@@ -3,7 +3,7 @@
     "name": "Guess The Character",
     "version": "1",
     "iconUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/icon.png",
-    "homeUrl": "https://guess-the-character-rouge.vercel.app/",
+    "homeUrl": "https://api.farcaster.xyz/miniapps/hosted-manifest/0199fa8b-1496-63cf-4e58-f98c3884b9f0",
     "splashImageUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/splash.png",
     "splashBackgroundColor": "#F8F9FA",
     "subtitle": "Can you guess them all?",
