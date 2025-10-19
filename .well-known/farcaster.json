@@ -1,20 +1,18 @@
 {
-    "frame": {
+  "frame": {
     "name": "Guess the character",
     "version": "1",
     "iconUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/icon.png",
-    "homeUrl": "https://guess-the-character-farcaster.vercel.app/",
+    "homeUrl": "https://guess-the-character-farcaster-neon.vercel.app/",
     "splashImageUrl": "https://github.com/Akashchintakindi/guess-the-character-farcaster/blob/main/public/splash.png",
     "splashBackgroundColor": "#F8F9FA",
-    "webhookUrl": "https://guess-the-character-farcaster.vercel.app/api/webhook",
     "subtitle": "Can you guess them all?",
     "description": "A fun Farcaster mini game — see a character silhouette and guess who it is!",
     "primaryCategory": "games"
   },
-    
   "accountAssociation": {
-    "header": "eyJmaWQiOjIzNDU2NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDlkODJEQkY0ODY4MTc3NUIyYjgxOTc3Njg4QzUwMTA4OGEwMTVCRWEifQ",
-    "payload": "eyJkb21haW4iOiJndWVzcy10aGUtY2hhcmFjdGVyLXJvdWdlLnZlcmNlbC5hcHAifQ",
-    "signature": "AyPiF5zfmmYUeUMZU4v0a3O7S+bhM2KO1VeL5qQOE44pUpXxU3cePMxeIdGxt7SROTONArhCMawn5ebYwXhRIBs="
+    "header": "",
+    "payload": "",
+    "signature": ""
   }
 }
