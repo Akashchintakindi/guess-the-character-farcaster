@@ -1,0 +1,19 @@
+{
+  "frame": {
+    "name": "Guess the characters",
+    "version": "1",
+    "iconUrl": "https://guess-the-character-farcaster.vercel.app/icon.png",
+    "homeUrl": "https://guess-the-character-farcaster.vercel.app",
+    "imageUrl": "https://guess-the-character-farcaster.vercel.app/image.png",
+    "splashImageUrl": "https://guess-the-character-farcaster.vercel.app/splash.png",
+    "splashBackgroundColor": "#F8F9FA",
+    "subtitle": "Can you guess them all?",
+    "description": "A fun Farcaster mini game — see a character silhouette and guess who it is!",
+    "primaryCategory": "games"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjIzNDU2NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDlkODJEQkY0ODY4MTc3NUIyYjgxOTc3Njg4QzUwMTA4OGEwMTVCRWEifQ",
+    "payload": "eyJkb21haW4iOiJndWVzcy10aGUtY2hhcmFjdGVyLWZhcmNhc3Rlci52ZXJjZWwuYXBwIn0",
+    "signature": "aMuSRel36Ygabj0lvMCcVnsfW1n+rB6ua+1EvTsGDaMwylKuHbfZF47TOjJkusR3gdyyBT2S7s3wEEEiofH9Hhw="
+  }
+}
