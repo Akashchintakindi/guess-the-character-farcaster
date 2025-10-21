@@ -3,7 +3,7 @@
     "name": "Guess the characters",
     "version": "1",
     "iconUrl": "https://guess-the-character-farcaster.vercel.app/icon.png",
-    "homeUrl": "https://guess-the-character-farcaster.vercel.app",
+    "homeUrl": "https://api.farcaster.xyz/miniapps/hosted-manifest/019a0627-4856-ecfb-e5a5-061eeda1ada5",
     "imageUrl": "https://guess-the-character-farcaster.vercel.app/image.png",
     "splashImageUrl": "https://guess-the-character-farcaster.vercel.app/splash.png",
     "splashBackgroundColor": "#F8F9FA",
